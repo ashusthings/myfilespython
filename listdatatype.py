@@ -25,4 +25,4 @@ for i in list1:
 a=[54,32,33,55,45,46,78,77,98,99,16,19,20,22,23]
 
     
-    
+here is the list data structure in python
